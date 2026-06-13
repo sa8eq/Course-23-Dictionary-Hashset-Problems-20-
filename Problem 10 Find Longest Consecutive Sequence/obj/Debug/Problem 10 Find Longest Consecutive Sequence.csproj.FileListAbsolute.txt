@@ -1,0 +1,7 @@
+C:\Users\sadeq\Desktop\Road Map\Course 23\Dictionary & Hashset Problems (20)\Problem 10 Find Longest Consecutive Sequence\bin\Debug\Problem 10 Find Longest Consecutive Sequence.exe.config
+C:\Users\sadeq\Desktop\Road Map\Course 23\Dictionary & Hashset Problems (20)\Problem 10 Find Longest Consecutive Sequence\bin\Debug\Problem 10 Find Longest Consecutive Sequence.exe
+C:\Users\sadeq\Desktop\Road Map\Course 23\Dictionary & Hashset Problems (20)\Problem 10 Find Longest Consecutive Sequence\bin\Debug\Problem 10 Find Longest Consecutive Sequence.pdb
+C:\Users\sadeq\Desktop\Road Map\Course 23\Dictionary & Hashset Problems (20)\Problem 10 Find Longest Consecutive Sequence\obj\Debug\Problem 10 Find Longest Consecutive Sequence.csproj.AssemblyReference.cache
+C:\Users\sadeq\Desktop\Road Map\Course 23\Dictionary & Hashset Problems (20)\Problem 10 Find Longest Consecutive Sequence\obj\Debug\Problem 10 Find Longest Consecutive Sequence.csproj.CoreCompileInputs.cache
+C:\Users\sadeq\Desktop\Road Map\Course 23\Dictionary & Hashset Problems (20)\Problem 10 Find Longest Consecutive Sequence\obj\Debug\Problem 10 Find Longest Consecutive Sequence.exe
+C:\Users\sadeq\Desktop\Road Map\Course 23\Dictionary & Hashset Problems (20)\Problem 10 Find Longest Consecutive Sequence\obj\Debug\Problem 10 Find Longest Consecutive Sequence.pdb

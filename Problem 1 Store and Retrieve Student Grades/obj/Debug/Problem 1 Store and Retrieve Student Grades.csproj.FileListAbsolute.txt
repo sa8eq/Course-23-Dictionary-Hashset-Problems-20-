@@ -1,0 +1,7 @@
+C:\Users\sadeq\Desktop\Road Map\Course 23\Dictionary & Hashset Problems (20)\Problem 1 Store and Retrieve Student Grades\bin\Debug\Problem 1 Store and Retrieve Student Grades.exe.config
+C:\Users\sadeq\Desktop\Road Map\Course 23\Dictionary & Hashset Problems (20)\Problem 1 Store and Retrieve Student Grades\bin\Debug\Problem 1 Store and Retrieve Student Grades.exe
+C:\Users\sadeq\Desktop\Road Map\Course 23\Dictionary & Hashset Problems (20)\Problem 1 Store and Retrieve Student Grades\bin\Debug\Problem 1 Store and Retrieve Student Grades.pdb
+C:\Users\sadeq\Desktop\Road Map\Course 23\Dictionary & Hashset Problems (20)\Problem 1 Store and Retrieve Student Grades\obj\Debug\Problem 1 Store and Retrieve Student Grades.csproj.AssemblyReference.cache
+C:\Users\sadeq\Desktop\Road Map\Course 23\Dictionary & Hashset Problems (20)\Problem 1 Store and Retrieve Student Grades\obj\Debug\Problem 1 Store and Retrieve Student Grades.csproj.CoreCompileInputs.cache
+C:\Users\sadeq\Desktop\Road Map\Course 23\Dictionary & Hashset Problems (20)\Problem 1 Store and Retrieve Student Grades\obj\Debug\Problem 1 Store and Retrieve Student Grades.exe
+C:\Users\sadeq\Desktop\Road Map\Course 23\Dictionary & Hashset Problems (20)\Problem 1 Store and Retrieve Student Grades\obj\Debug\Problem 1 Store and Retrieve Student Grades.pdb

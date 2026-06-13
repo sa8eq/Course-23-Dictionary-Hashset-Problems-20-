@@ -1,0 +1,7 @@
+C:\Users\sadeq\Desktop\Road Map\Course 23\Dictionary & Hashset Problems (20)\Problem 2 Store Book Information\bin\Debug\Problem 2 Store Book Information.exe.config
+C:\Users\sadeq\Desktop\Road Map\Course 23\Dictionary & Hashset Problems (20)\Problem 2 Store Book Information\bin\Debug\Problem 2 Store Book Information.exe
+C:\Users\sadeq\Desktop\Road Map\Course 23\Dictionary & Hashset Problems (20)\Problem 2 Store Book Information\bin\Debug\Problem 2 Store Book Information.pdb
+C:\Users\sadeq\Desktop\Road Map\Course 23\Dictionary & Hashset Problems (20)\Problem 2 Store Book Information\obj\Debug\Problem 2 Store Book Information.csproj.AssemblyReference.cache
+C:\Users\sadeq\Desktop\Road Map\Course 23\Dictionary & Hashset Problems (20)\Problem 2 Store Book Information\obj\Debug\Problem 2 Store Book Information.csproj.CoreCompileInputs.cache
+C:\Users\sadeq\Desktop\Road Map\Course 23\Dictionary & Hashset Problems (20)\Problem 2 Store Book Information\obj\Debug\Problem 2 Store Book Information.exe
+C:\Users\sadeq\Desktop\Road Map\Course 23\Dictionary & Hashset Problems (20)\Problem 2 Store Book Information\obj\Debug\Problem 2 Store Book Information.pdb

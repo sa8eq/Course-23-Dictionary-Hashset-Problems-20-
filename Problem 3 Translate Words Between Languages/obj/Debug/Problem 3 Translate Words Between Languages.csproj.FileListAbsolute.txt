@@ -1,0 +1,7 @@
+C:\Users\sadeq\Desktop\Road Map\Course 23\Dictionary & Hashset Problems (20)\Problem 3 Translate Words Between Languages\bin\Debug\Problem 3 Translate Words Between Languages.exe.config
+C:\Users\sadeq\Desktop\Road Map\Course 23\Dictionary & Hashset Problems (20)\Problem 3 Translate Words Between Languages\bin\Debug\Problem 3 Translate Words Between Languages.exe
+C:\Users\sadeq\Desktop\Road Map\Course 23\Dictionary & Hashset Problems (20)\Problem 3 Translate Words Between Languages\bin\Debug\Problem 3 Translate Words Between Languages.pdb
+C:\Users\sadeq\Desktop\Road Map\Course 23\Dictionary & Hashset Problems (20)\Problem 3 Translate Words Between Languages\obj\Debug\Problem 3 Translate Words Between Languages.csproj.AssemblyReference.cache
+C:\Users\sadeq\Desktop\Road Map\Course 23\Dictionary & Hashset Problems (20)\Problem 3 Translate Words Between Languages\obj\Debug\Problem 3 Translate Words Between Languages.csproj.CoreCompileInputs.cache
+C:\Users\sadeq\Desktop\Road Map\Course 23\Dictionary & Hashset Problems (20)\Problem 3 Translate Words Between Languages\obj\Debug\Problem 3 Translate Words Between Languages.exe
+C:\Users\sadeq\Desktop\Road Map\Course 23\Dictionary & Hashset Problems (20)\Problem 3 Translate Words Between Languages\obj\Debug\Problem 3 Translate Words Between Languages.pdb

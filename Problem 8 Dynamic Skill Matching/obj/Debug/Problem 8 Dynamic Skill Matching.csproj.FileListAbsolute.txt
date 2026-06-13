@@ -1,0 +1,7 @@
+C:\Users\sadeq\Desktop\Road Map\Course 23\Dictionary & Hashset Problems (20)\Problem 8 Dynamic Skill Matching\bin\Debug\Problem 8 Dynamic Skill Matching.exe.config
+C:\Users\sadeq\Desktop\Road Map\Course 23\Dictionary & Hashset Problems (20)\Problem 8 Dynamic Skill Matching\bin\Debug\Problem 8 Dynamic Skill Matching.exe
+C:\Users\sadeq\Desktop\Road Map\Course 23\Dictionary & Hashset Problems (20)\Problem 8 Dynamic Skill Matching\bin\Debug\Problem 8 Dynamic Skill Matching.pdb
+C:\Users\sadeq\Desktop\Road Map\Course 23\Dictionary & Hashset Problems (20)\Problem 8 Dynamic Skill Matching\obj\Debug\Problem 8 Dynamic Skill Matching.csproj.AssemblyReference.cache
+C:\Users\sadeq\Desktop\Road Map\Course 23\Dictionary & Hashset Problems (20)\Problem 8 Dynamic Skill Matching\obj\Debug\Problem 8 Dynamic Skill Matching.csproj.CoreCompileInputs.cache
+C:\Users\sadeq\Desktop\Road Map\Course 23\Dictionary & Hashset Problems (20)\Problem 8 Dynamic Skill Matching\obj\Debug\Problem 8 Dynamic Skill Matching.exe
+C:\Users\sadeq\Desktop\Road Map\Course 23\Dictionary & Hashset Problems (20)\Problem 8 Dynamic Skill Matching\obj\Debug\Problem 8 Dynamic Skill Matching.pdb

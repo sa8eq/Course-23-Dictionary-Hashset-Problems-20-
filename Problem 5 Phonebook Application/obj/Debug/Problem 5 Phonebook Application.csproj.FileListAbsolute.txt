@@ -1,0 +1,7 @@
+C:\Users\sadeq\Desktop\Road Map\Course 23\Dictionary & Hashset Problems (20)\Problem 5 Phonebook Application\bin\Debug\Problem 5 Phonebook Application.exe.config
+C:\Users\sadeq\Desktop\Road Map\Course 23\Dictionary & Hashset Problems (20)\Problem 5 Phonebook Application\bin\Debug\Problem 5 Phonebook Application.exe
+C:\Users\sadeq\Desktop\Road Map\Course 23\Dictionary & Hashset Problems (20)\Problem 5 Phonebook Application\bin\Debug\Problem 5 Phonebook Application.pdb
+C:\Users\sadeq\Desktop\Road Map\Course 23\Dictionary & Hashset Problems (20)\Problem 5 Phonebook Application\obj\Debug\Problem 5 Phonebook Application.csproj.AssemblyReference.cache
+C:\Users\sadeq\Desktop\Road Map\Course 23\Dictionary & Hashset Problems (20)\Problem 5 Phonebook Application\obj\Debug\Problem 5 Phonebook Application.csproj.CoreCompileInputs.cache
+C:\Users\sadeq\Desktop\Road Map\Course 23\Dictionary & Hashset Problems (20)\Problem 5 Phonebook Application\obj\Debug\Problem 5 Phonebook Application.exe
+C:\Users\sadeq\Desktop\Road Map\Course 23\Dictionary & Hashset Problems (20)\Problem 5 Phonebook Application\obj\Debug\Problem 5 Phonebook Application.pdb
