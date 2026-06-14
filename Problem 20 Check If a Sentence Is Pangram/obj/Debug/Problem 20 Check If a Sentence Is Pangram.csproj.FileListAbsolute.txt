@@ -1,0 +1,7 @@
+C:\Users\sadeq\Desktop\Road Map\Course 23\Dictionary & Hashset Problems (20)\Problem 20 Check If a Sentence Is Pangram\bin\Debug\Problem 20 Check If a Sentence Is Pangram.exe.config
+C:\Users\sadeq\Desktop\Road Map\Course 23\Dictionary & Hashset Problems (20)\Problem 20 Check If a Sentence Is Pangram\bin\Debug\Problem 20 Check If a Sentence Is Pangram.exe
+C:\Users\sadeq\Desktop\Road Map\Course 23\Dictionary & Hashset Problems (20)\Problem 20 Check If a Sentence Is Pangram\bin\Debug\Problem 20 Check If a Sentence Is Pangram.pdb
+C:\Users\sadeq\Desktop\Road Map\Course 23\Dictionary & Hashset Problems (20)\Problem 20 Check If a Sentence Is Pangram\obj\Debug\Problem 20 Check If a Sentence Is Pangram.csproj.AssemblyReference.cache
+C:\Users\sadeq\Desktop\Road Map\Course 23\Dictionary & Hashset Problems (20)\Problem 20 Check If a Sentence Is Pangram\obj\Debug\Problem 20 Check If a Sentence Is Pangram.csproj.CoreCompileInputs.cache
+C:\Users\sadeq\Desktop\Road Map\Course 23\Dictionary & Hashset Problems (20)\Problem 20 Check If a Sentence Is Pangram\obj\Debug\Problem 20 Check If a Sentence Is Pangram.exe
+C:\Users\sadeq\Desktop\Road Map\Course 23\Dictionary & Hashset Problems (20)\Problem 20 Check If a Sentence Is Pangram\obj\Debug\Problem 20 Check If a Sentence Is Pangram.pdb
